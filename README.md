@@ -38,8 +38,8 @@
 > 
 > 新时代需要新道德。——《三体》
 
-* [在线阅读](https://{domain}.apachecn.org)
-* [在线阅读（Gitee）](https://apachecn.gitee.io/doc-template/)
+* [在线阅读](https://makelove.apachecn.org)
+* [在线阅读（Gitee）](https://apachecn.gitee.io/makelove/)
 * [ApacheCN 学习资源](http://docs.apachecn.org/)
 
 ## 贡献指南
@@ -52,11 +52,11 @@
 
 ### 负责人
 
-* [{adminName}](https://github.com/{adminUn}): {adminQq}
+* [绿帽哥](https://github.com/ChrisPaul234): {adminQq}
 
 ### 其他
 
-*   在我们的 [apachecn/{repo}](https://github.com/apachecn/{repo}) github 上提 issue.
+*   在我们的 [apachecn/MakeLove](https://github.com/apachecn/MakeLove) github 上提 issue.
 *   发邮件到 Email: `apachecn@163.com`.
 *   在我们的 [组织学习交流群](https://www.apachecn.org/#/docs/join) 中联系群主/管理员即可.
 
