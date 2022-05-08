@@ -30,7 +30,7 @@
         {repo}：ApacheCN 的 Github 仓库名称
 -->
 
-# {name}
+# 坏男孩日记
 
 > 原文：[{nameEn}]({urlEn})
 > 
@@ -44,15 +44,23 @@
 
 ## 贡献指南
 
-本项目需要校对，欢迎大家提交 Pull Request。
+这本日记用于记录有趣的人与事。
 
-> 请您勇敢地去翻译和改进翻译。虽然我们追求卓越，但我们并不要求您做到十全十美，因此请不要担心因为翻译上犯错——在大部分情况下，我们的服务器已经记录所有的翻译，因此您不必担心会因为您的失误遭到无法挽回的破坏。（改编自维基百科）
+后续慢慢展开 ..
+
+> 线上慢慢迁移到线下
+
+通过几个活跃的人，开启线上的活动。
+
+然后通过催化，让周围的人达到活跃地步，达成活跃。
+
+在开始线下的活动转型。
 
 ## 联系方式
 
 ### 负责人
 
-* [绿帽哥](https://github.com/ChrisPaul234): {adminQq}
+* [绿帽哥](https://github.com/ChrisPaul234): 绿帽哥
 
 ### 其他
 
@@ -65,24 +73,24 @@
 ### Docker
 
 ```
-docker pull apachecn0/{dockerName}
-docker run -tid -p <port>:80 apachecn0/{dockerName}
+docker pull apachecn0/MakeLove
+docker run -tid -p <port>:80 apachecn0/MakeLove
 # 访问 http://localhost:{port} 查看文档
 ```
 
 ### PYPI
 
 ```
-pip install {pypiName}
-{pypiName} <port>
+pip install MakeLove
+MakeLove <port>
 # 访问 http://localhost:{port} 查看文档
 ```
 
 ### NPM
 
 ```
-npm install -g {npmName}
-{npmName} <port>
+npm install -g MakeLove
+MakeLove <port>
 # 访问 http://localhost:{port} 查看文档
 ```
 
