@@ -73,24 +73,24 @@
 ### Docker
 
 ```
-docker pull apachecn0/MakeLove
-docker run -tid -p <port>:80 apachecn0/MakeLove
+docker pull apachecn0/apachecn-makelove
+docker run -tid -p <port>:80 apachecn0/apachecn-makelove
 # 访问 http://localhost:{port} 查看文档
 ```
 
 ### PYPI
 
 ```
-pip install MakeLove
-MakeLove <port>
+pip install apachecn-makelove
+apachecn-makelove <port>
 # 访问 http://localhost:{port} 查看文档
 ```
 
 ### NPM
 
 ```
-npm install -g MakeLove
-MakeLove <port>
+npm install -g apachecn-makelove
+apachecn-makelove <port>
 # 访问 http://localhost:{port} 查看文档
 ```
 
